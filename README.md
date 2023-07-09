@@ -9,3 +9,21 @@ These four datasets are available from [Spatial-Temporal Synchronous Graph Convo
 - NE-BJ
 
 This dataset is available from [Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution](https://arxiv.org/abs/2104.14917)
+
+# Environment
+
+We use minimal environment requirement as below. Our code is tested on `CUDA 11.3`
+
+```
+numpy
+pandas
+torch
+```
+
+# Run
+
+```
+cd SimpleSTG
+python run.py
+```
+More configurations other than default can be found in `run.py`.
