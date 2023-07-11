@@ -12,12 +12,12 @@ This dataset is available from [Dynamic Graph Convolutional Recurrent Network fo
 
 # Environment
 
-We use minimal environment requirement as below. Our code is tested on `CUDA 11.3`
+We use minimal environment requirement as below. Our code is tested on `CUDA 11.1`
 
 ```
 numpy
 pandas
-torch
+torch==1.9.0
 ```
 
 # Run
