@@ -10,6 +10,8 @@ These four datasets are available from [Spatial-Temporal Synchronous Graph Convo
 
 This dataset is available from [Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution](https://arxiv.org/abs/2104.14917)
 
+The default data path is `../../traffic/XXX` as by `data.py`.
+
 # Environment
 
 We use minimal environment requirement as below. Our code is tested on `CUDA 11.1`
